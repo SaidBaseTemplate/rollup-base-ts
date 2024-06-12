@@ -1,5 +1,5 @@
 {
-  "name": "rollup-ts",
+  "name": "rollup-base-ts",
   "version": "0.0.1",
   "description": "rollup ts template",
   "main": "dist/index.js",
@@ -19,7 +19,7 @@
     "url": "https://github.com/SaidBaseTemplate/rollup-base-ts.git"
   },
   "author": "guizimo",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.24.7",
     "@babel/plugin-proposal-class-properties": "^7.18.6",
