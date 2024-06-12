@@ -8,8 +8,17 @@
     "dev": "rimraf dist && rollup -c rollup.config.js -w",
     "build": "rimraf dist && rollup -c rollup.config.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "rollup",
+    "ts",
+    "template",
+    "base"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SaidBaseTemplate/rollup-base-ts.git"
+  },
+  "author": "guizimo",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.24.7",
